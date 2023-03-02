@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cow Recognition</string>
+    <string name="notify_waiting_response">Esperando respuesta…</string>
+    <string name="notify_permission_denied">Permiso denegado.</string>
+    <string name="notify_something_went_wrong">Algo salió mal.</string>
+    <string name="notify_cannot_connect_to_server">No se pudo conectar con el servidor.</string>
+    <string name="notify_no_media_selected">Ningún archivo seleccionado.</string>
+    <string name="text_button_take_photo">Tomar foto</string>
+    <string name="text_button_pick_media">Ir a galería</string>
+    <string name="content_description_cow">Cow</string>
+</resources>
